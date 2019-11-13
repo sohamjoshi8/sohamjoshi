@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 yedzava
 bosdich
 bhadva
@@ -6,5 +7,17 @@ nich
 lavadu
 
 
+=======
+manoj is madarchod
+also bhadva 
+alsr zatu
+also yedzava
+also gandu
+also zandu
+also bhosadfakir
+also pappu
+also lavdu
+also randva
+>>>>>>> 9fbeb0d7b725bc155b4f507ef230776d4505e2c5
 
 
