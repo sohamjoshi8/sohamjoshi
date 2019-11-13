@@ -1,7 +1,4 @@
 soham nitin joshi
-<<<<<<< HEAD
-manoj chavan
-=======
 
->>>>>>> 3b0e251fdc3e812d1fb54b3449d5d7e8f49ccce3
+
 
